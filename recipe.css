@@ -1,0 +1,7 @@
+.recipeoutput{
+    padding: 50px 100px;
+    display: flex;
+    flex: 1;
+    flex-direction: column;
+    gap: 20px;
+}
